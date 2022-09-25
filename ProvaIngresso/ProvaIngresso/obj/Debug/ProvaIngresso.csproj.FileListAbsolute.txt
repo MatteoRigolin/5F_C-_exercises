@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\ProvaIngresso\ProvaIngresso\bin\Debug\ProvaIngresso.exe.config
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\ProvaIngresso\ProvaIngresso\bin\Debug\ProvaIngresso.exe
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\ProvaIngresso\ProvaIngresso\bin\Debug\ProvaIngresso.pdb
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\ProvaIngresso\ProvaIngresso\obj\Debug\ProvaIngresso.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\ProvaIngresso\ProvaIngresso\obj\Debug\ProvaIngresso.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\ProvaIngresso\ProvaIngresso\obj\Debug\ProvaIngresso.exe
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\ProvaIngresso\ProvaIngresso\obj\Debug\ProvaIngresso.pdb
