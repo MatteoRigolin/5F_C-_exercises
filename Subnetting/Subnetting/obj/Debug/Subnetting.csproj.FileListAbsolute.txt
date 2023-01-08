@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\Subnetting\Subnetting\obj\Debug\Subnetting.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Matteo ITIS\Visual Studio\Subnetting\Subnetting\obj\Debug\Subnetting.csproj.CoreCompileInputs.cache
